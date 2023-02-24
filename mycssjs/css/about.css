@@ -1,0 +1,26 @@
+::-webkit-scrollbar {
+    display: none;
+  }
+
+
+#content {
+    margin: 100px 100px 100px 100px;
+    height: 85vh;
+    overflow: scroll;
+    border:solid 10px #E03C8A;
+    padding: 40px;
+}
+
+* {
+    overflow: hidden;
+}
+
+#title h1{
+    font-size: 100px;
+    color: #E03C8A;
+}
+
+p {
+    font-size: 40px;
+    color: #E03C8A;
+}
